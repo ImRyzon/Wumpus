@@ -15,7 +15,7 @@ public class Wumpus {
     public static String prefix;
 
     public static void main(String[] args) throws LoginException {
-        String token = "ODk2NDYzNTMzMDU3OTA4Nzk2.YWHeuQ.lQqExqydjH4HMSPWu7zlhPz57bY";
+        String token = "ODk2NDYzNTMzMDU3OTA4Nzk2.YWHeuQ.lQqExqydjH4HMSPWu7zlhPz57bY"; // I have changed this token so don't you even think about it
         prefix = "~";
 
         builder = JDABuilder.createDefault(token);
