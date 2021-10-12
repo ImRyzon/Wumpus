@@ -9,6 +9,7 @@ import net.dv8tion.jda.api.utils.cache.*;
 import javax.security.auth.login.LoginException;
 
 /*
+
 A program for Wumpus Discord Bot.
 
 GitHub Link: https://github.com/ImRyzon
