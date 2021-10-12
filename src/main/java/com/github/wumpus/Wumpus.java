@@ -13,6 +13,7 @@ A program for Wumpus Discord Bot.
 
 GitHub Link: https://github.com/ImRyzon
 Repository Link: https://github.com/ImRyzon/Wumpus
+
 */
 
 public class Wumpus {
